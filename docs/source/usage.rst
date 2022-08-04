@@ -1,6 +1,8 @@
 Usage
 =====
 
+v 1.0.0
+
 .. _installation:
 
 Installation
